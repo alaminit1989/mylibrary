@@ -22,6 +22,9 @@
 
 * **CLI (Command Line Interface)**
 
+
+>	## Front-end
+
 *	**HTML**
 
 *	**CSS**
@@ -47,23 +50,52 @@
 	**1. Jest**
 	**2. Mocha**
 
-*	**React**
-
+*	**Framework :**
+	**1. React**
+	
 *	**Redux**
 
 *	**Module Loader/Bundler**
 	**1. Webpack**
+	
+
+> ## Back-end
 
 *	**Node.js**
 
 *	**Framework:**
 	**1. Express**
 
-*	**Rest API**
+*	**Package Manager:**
+	**1.	 npm**
+	**2. Yarn**
+	
+*	**Testing**
+	**1. Jest**
+	**2. Mocha**
+	
+*	**Web Server :**
+	**1. Nginx**
 
-*	**MongoDB**
+*	**RESTful APIs**
 
-*	**MS SQL**
+*	**Authentication :**
+	**1. OAuth 2.0 ()**
+	**2. JWT (JSON Web Token)**
+	
+*	**Message Brokers :**
+	**1. RabbitMQ**
+	
+*	**Storage - Caching :**
+	**1. Memcached**
+	**2. Redis**
+	
+*	**Relational DataBases :**
+	**1. MSSQL**
+	
+*	**NoSQL Databases :**	
+	**MongoDB**
+	
 
 
 
