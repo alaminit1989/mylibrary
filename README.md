@@ -2,9 +2,9 @@
 
 > ## Common
 
-*	**(SDLC) Software Development Life Cycle**
+>*	**(SDLC) Software Development Life Cycle**
 
-*	**DevOps**
+>*	**DevOps**
 
 *	**Git - Version Control**
 
