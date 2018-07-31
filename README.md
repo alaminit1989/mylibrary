@@ -1,5 +1,7 @@
 >	# My Library
 
+> ## Common
+
 *	**(SDLC) Software Development Life Cycle**
 
 *	**DevOps**
@@ -12,15 +14,13 @@
 
 *	**HTTP/HTTPS And APIs**
 
-* **Basic Terminal Usage**
+* **Basic Terminal Usage - CLI (Command Line Interface)**
 
 *	**Learn To Research**
 
 *	**Data Structures**
 
 *	**Character Encodings**
-
-* **CLI (Command Line Interface)**
 
 
 >	## Front-end
