@@ -2,9 +2,9 @@
 
 > ## Common
 
->*	**(SDLC) Software Development Life Cycle**
+*	**(SDLC) Software Development Life Cycle**
 
->*	**DevOps**
+*	**DevOps (Development And Operations)**
 
 *	**Git - Version Control**
 
@@ -21,6 +21,8 @@
 *	**Data Structures**
 
 *	**Character Encodings**
+
+*	**Chrome Developer Tools**
 
 
 >	## Front-end
