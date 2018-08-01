@@ -7,7 +7,7 @@
 >	##	5.	Testing
 >	##	6.	Delivery And Maintenance
 
-##	This are the 6 phases IEEE Standards. Abbreviation of Institute of Electrical and Electronics Engineers.
+*	This are the 6 phases IEEE (Institute of Electrical and Electronics Engineers) Standards. 
 
 
 >	##	SDLC Details :
