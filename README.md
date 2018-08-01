@@ -2,7 +2,7 @@
 
 > ## Common
 
-*	[**(SDLC) Software Development Life Cycle**](https://github.com/alaminit1989/mylibrary/blob/master/MyLaibrary/SDLC/SDLC.md)
+*	[**(SDLC) Software Development Life Cycle**](https://github.com/alaminit1989/mylibrary/blob/master/MyLibrary/SDLC/SDLC.md)
 
 *	**DevOps (Development And Operations)**
 
